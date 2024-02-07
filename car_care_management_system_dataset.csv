@@ -1,0 +1,101 @@
+ServiceId,Make,Year,ServiceType,TotalCost
+1,Nissan,2020,"Oil Leak - Battery Replacement",1424.15
+2,Ford,2023,"Worn Tires - Electrical System Repair",974.5
+3,Honda,2019,"Brake Failure - Electrical System Repair",1249.86
+4,Honda,2010,"Transmission Problem - Oil Change",1270.51
+5,Ford,2000,"Worn Tires - Exhaust System Repair",702.47
+6,Ford,2018,"Brake Failure - Exhaust System Repair",1062.23
+7,BMW,2011,"Electrical Issues - Oil Change",594.85
+8,Nissan,2012,"Oil Leak - Transmission Repair",517.61
+9,Toyota,2022,"Suspension Issue - Suspension Repair",1144.38
+10,Nissan,2008,"Suspension Issue - Electrical System Repair",784.26
+11,Ford,2018,"Transmission Problem - Brake Pad Replacement",998.91
+12,Honda,2010,"Suspension Issue - Exhaust System Repair",830.91
+13,BMW,2022,"Transmission Problem - Oil Change",634.97
+14,Toyota,2004,"Engine Overheating - Battery Replacement",331.3
+15,BMW,2013,"Worn Tires - Suspension Repair",1245.96
+16,Honda,2000,"Suspension Issue - Suspension Repair",1127.82
+17,Ford,2002,"Worn Tires - Transmission Repair",1185.82
+18,Ford,2019,"Suspension Issue - Suspension Repair",840.47
+19,Toyota,2001,"Worn Tires - Oil Change",990.58
+20,Honda,2023,"Battery Issue - Transmission Repair",646.01
+21,Ford,2015,"Brake Failure - Battery Replacement",459.91
+22,Nissan,2020,"Battery Issue - Suspension Repair",497.79
+23,Nissan,2007,"Suspension Issue - Transmission Repair",751.57
+24,BMW,2013,"Engine Overheating - Oil Change",1128.33
+25,Honda,2010,"Suspension Issue - Battery Replacement",230.34
+26,BMW,2021,"Worn Tires - Suspension Repair",1143.75
+27,Honda,2001,"Worn Tires - Exhaust System Repair",1037.33
+28,Toyota,2021,"Electrical Issues - Electrical System Repair",949.26
+29,BMW,2012,"Suspension Issue - Tire Replacement",1048.85
+30,Nissan,2001,"Transmission Problem - Suspension Repair",776.81
+31,Honda,2017,"Worn Tires - Brake Pad Replacement",1156.86
+32,BMW,2023,"Transmission Problem - Engine Cooling System Repair",1000.9
+33,Toyota,2016,"Transmission Problem - Suspension Repair",462.89
+34,BMW,2003,"Exhaust System Leak - Transmission Repair",1297.29
+35,Toyota,2016,"Battery Issue - Suspension Repair",1419.4
+36,Honda,2002,"Exhaust System Leak - Engine Cooling System Repair",736.94
+37,Ford,2015,"Electrical Issues - Engine Cooling System Repair",367.88
+38,BMW,2006,"Transmission Problem - Suspension Repair",699.55
+39,BMW,2001,"Exhaust System Leak - Tire Replacement",645.85
+40,Toyota,2007,"Electrical Issues - Transmission Repair",570.63
+41,Nissan,2003,"Electrical Issues - Electrical System Repair",564.75
+42,Ford,2021,"Electrical Issues - Suspension Repair",659.02
+43,Honda,2005,"Battery Issue - Oil Change",690.26
+44,BMW,2009,"Worn Tires - Brake Pad Replacement",996.3
+45,BMW,2002,"Battery Issue - Transmission Repair",478.87
+46,Ford,2010,"Engine Overheating - Exhaust System Repair",1340.72
+47,BMW,2011,"Worn Tires - Brake Pad Replacement",762.2
+48,Ford,2020,"Suspension Issue - Tire Replacement",495.04
+49,BMW,2009,"Brake Failure - Brake Pad Replacement",1227.11
+50,Toyota,2017,"Suspension Issue - Battery Replacement",988.53
+51,Nissan,2023,"Suspension Issue - Battery Replacement",805.19
+52,Toyota,2007,"Transmission Problem - Electrical System Repair",677.06
+53,Ford,2005,"Suspension Issue - Oil Change",356.02
+54,BMW,2017,"Suspension Issue - Brake Pad Replacement",1280.98
+55,Ford,2001,"Brake Failure - Exhaust System Repair",479.33
+56,Toyota,2015,"Electrical Issues - Exhaust System Repair",884.23
+57,Honda,2013,"Transmission Problem - Tire Replacement",631.62
+58,Toyota,2003,"Battery Issue - Battery Replacement",888.71
+59,BMW,2014,"Battery Issue - Suspension Repair",1057.17
+60,Nissan,2011,"Worn Tires - Brake Pad Replacement",778.86
+61,BMW,2019,"Engine Overheating - Brake Pad Replacement",1133.02
+62,BMW,2006,"Electrical Issues - Electrical System Repair",698.42
+63,Ford,2021,"Battery Issue - Electrical System Repair",378.52
+64,BMW,2014,"Worn Tires - Electrical System Repair",1237.49
+65,Nissan,2003,"Brake Failure - Transmission Repair",397.21
+66,Honda,2021,"Electrical Issues - Electrical System Repair",1095.19
+67,Ford,2006,"Battery Issue - Electrical System Repair",884.3
+68,Toyota,2006,"Transmission Problem - Battery Replacement",1059.55
+69,Honda,2003,"Electrical Issues - Oil Change",361.09
+70,Ford,2011,"Engine Overheating - Tire Replacement",922.1
+71,Ford,2003,"Battery Issue - Brake Pad Replacement",461.43
+72,Ford,2016,"Engine Overheating - Battery Replacement",786.64
+73,Toyota,2015,"Suspension Issue - Brake Pad Replacement",946.18
+74,Honda,2011,"Oil Leak - Engine Cooling System Repair",386.52
+75,Ford,2004,"Electrical Issues - Oil Change",1093.07
+76,Toyota,2002,"Electrical Issues - Electrical System Repair",1300.74
+77,BMW,2016,"Worn Tires - Brake Pad Replacement",370.59
+78,Nissan,2006,"Electrical Issues - Suspension Repair",718.5
+79,Nissan,2009,"Engine Overheating - Exhaust System Repair",1051.35
+80,Nissan,2000,"Suspension Issue - Oil Change",1193.88
+81,Honda,2002,"Suspension Issue - Tire Replacement",933.25
+82,BMW,2001,"Suspension Issue - Battery Replacement",382.88
+83,Honda,2002,"Engine Overheating - Suspension Repair",513.81
+84,Toyota,2006,"Exhaust System Leak - Brake Pad Replacement",1137.65
+85,BMW,2001,"Engine Overheating - Suspension Repair",566.26
+86,BMW,2021,"Battery Issue - Exhaust System Repair",749.22
+87,Ford,2004,"Battery Issue - Tire Replacement",233.4
+88,BMW,2015,"Engine Overheating - Exhaust System Repair",877.87
+89,Nissan,2005,"Worn Tires - Electrical System Repair",789.12
+90,Nissan,2016,"Engine Overheating - Exhaust System Repair",573.72
+91,Toyota,2009,"Worn Tires - Exhaust System Repair",170.68
+92,Honda,2009,"Suspension Issue - Suspension Repair",1279.19
+93,Toyota,2011,"Exhaust System Leak - Exhaust System Repair",808.83
+94,Toyota,2002,"Transmission Problem - Electrical System Repair",1006.92
+95,Ford,2021,"Oil Leak - Electrical System Repair",1204.24
+96,Honda,2020,"Battery Issue - Battery Replacement",1367.2
+97,Ford,2007,"Battery Issue - Electrical System Repair",1004.42
+98,Honda,2023,"Suspension Issue - Brake Pad Replacement",909.18
+99,Ford,2024,"Suspension Issue - Brake Pad Replacement",5819.12
+100,Ford,2030,"Suspension Issue - Brake Pad Replacement",10213.25
